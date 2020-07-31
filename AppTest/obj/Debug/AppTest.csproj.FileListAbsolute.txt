@@ -1,0 +1,28 @@
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.csprojAssemblyReference.cache
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.csproj.GenerateResource.cache
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.MainForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.SecondaryForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.SettingsForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\bin\Debug\IScreen.exe.config
+C:\Users\zekabobs\source\repos\AppTest\AppTest\bin\Debug\IScreen.exe
+C:\Users\zekabobs\source\repos\AppTest\AppTest\bin\Debug\IScreen.pdb
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\IScreen.g.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\AppTest.InformationForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\IScreen.exe
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Debug\IScreen.pdb
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\bin\Debug\IScreen.exe.config
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\bin\Debug\IScreen.exe
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\bin\Debug\IScreen.pdb
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.csprojAssemblyReference.cache
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\IScreen.g.resources
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.InformationForm.resources
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.MainForm.resources
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.Properties.Resources.resources
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.SecondaryForm.resources
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.SettingsForm.resources
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.csproj.GenerateResource.cache
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\IScreen.exe
+C:\Users\zekabobs\git projects\DoScreenShot\AppTest\obj\Debug\IScreen.pdb

@@ -1,0 +1,14 @@
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.MainForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.SecondaryForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.csproj.GenerateResource.cache
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.csproj.CoreCompileInputs.cache
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.csprojAssemblyReference.cache
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.SettingsForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.InformationForm.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\bin\Release\IScreen.exe.config
+C:\Users\zekabobs\source\repos\AppTest\AppTest\bin\Release\IScreen.exe
+C:\Users\zekabobs\source\repos\AppTest\AppTest\bin\Release\IScreen.pdb
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\IScreen.g.resources
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\IScreen.exe
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\IScreen.pdb
+C:\Users\zekabobs\source\repos\AppTest\AppTest\obj\Release\AppTest.Properties.Resources.resources
